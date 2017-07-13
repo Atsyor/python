@@ -13,4 +13,4 @@ print "hey, " +",you are " +age + "years old,dude!"
 # def defines a function
 # for the function to run it need to take an argument eg print
 # the end 
-
+#done by richie
