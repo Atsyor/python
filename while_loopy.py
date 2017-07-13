@@ -7,5 +7,5 @@ i =10
 while(i < 20):
 	i= i + 2
 	print i
-	
-	
+	#in range of 6 to 20 
+	#even num in the rang of 10 to 20
