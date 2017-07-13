@@ -9,3 +9,4 @@ def evens():
 
 result = evens()
 print result
+#def is the function
